@@ -1,1 +1,1 @@
-web: python TikTok_EN.py --port=$PORT
+web: python TikTok_ZH.py --port=$PORT
